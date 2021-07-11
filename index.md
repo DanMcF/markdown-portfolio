@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{Daniel}
 
 # Head 1
 ## Head 2
