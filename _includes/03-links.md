@@ -1,1 +1,1 @@
-[Github] github.com/DanMcF/markdownportfolio
+[Github](github.com/DanMcF/markdownportfolio)
