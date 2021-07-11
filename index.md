@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# {Daniel}
+
 
 <br>
 
@@ -11,4 +12,8 @@ layout: default
 <br>
 
 {% include 03-links.md %}
+
+
+## Head 2
+### Head 3
 
