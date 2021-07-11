@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+# {Daniel}
+
 
 <br>
 
@@ -12,6 +13,7 @@ layout: default
 
 {% include 03-links.md %}
 
+
 <br>
 
 {% include 04-lists.md %}
@@ -19,3 +21,9 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+
+
+## Head 2
+### Head 3
+
+
